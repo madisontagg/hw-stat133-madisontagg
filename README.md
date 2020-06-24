@@ -14,7 +14,7 @@ Add for testing purpose
 
 - [Demo](demo)
 - [Workout 1](Workout01)
-- Workout 2
+- [Workout 2](Workout02-madison-tagg)
 - [Workout 3](Workout03Binomial)
 
 

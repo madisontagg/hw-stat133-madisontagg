@@ -13,8 +13,8 @@ Add for testing purpose
 ## Assignments
 
 - [Demo](demo)
-- [Workout 1]
+- [Workout 1](Workout01)
 - Workout 2
-- Workout 3
+- [Workout 3](Workout03Binomial)
 
 
